@@ -15,7 +15,7 @@ tags: page
     {% endif %}
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/favicon.png">
     <link rel="shortcut icon" href="/images/favicon.ico">
 </head>
 <body>
@@ -27,8 +27,8 @@ tags: page
             {% endif %}
         </div>
         <nav>
-            {% for page in collections.page %}
-                <div><a href="{{page.url}}">{{page.data.title}}</a></div>
+            {% for section in collections.page %}
+                <div><a href="{{section.url}}" {% if page.url == section.url %} aria-current="page"{% endif %}>{{section.data.title}}</a></div>
             {% endfor %}
         </nav>
         <main>

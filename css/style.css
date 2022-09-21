@@ -60,9 +60,19 @@ nav {
         border-top: 1px black solid;
     }
 }
+[aria-current="page"] {
+    /* text-decoration: underline; */
+    color: #bb5e32;
+    /* color: black; */
+    /* background-color: lightcoral; */
+    /* font-weight: bold; */
+    /* box-shadow: 3px 3px 5px #bb5e32; */
+}
 nav a,
 .pub-thumbs a {
     color: inherit;
+    /* color: rgb(120, 120, 120); */
+    /* font-weight: 600; */
 }
 .pub-thumbs {
     margin-top: 2rem;
@@ -79,7 +89,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 .pub-thumbs a {
     text-decoration: none;
