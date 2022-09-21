@@ -1,5 +1,6 @@
 ---
 title: Media
+date: 2022-01-04
 ---
 
 ## Select media coverage

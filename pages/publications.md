@@ -1,5 +1,7 @@
 ---
 title: Publications
+date: 2022-01-03
+
 ---
 
 ### 2022

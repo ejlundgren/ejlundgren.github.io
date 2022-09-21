@@ -5,10 +5,10 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
     width: 100%;
+    padding: var(--gap);
 }
 main {
     margin-top: 3rem;
-    padding: var(--gap);
 
 }
 .center-container {
