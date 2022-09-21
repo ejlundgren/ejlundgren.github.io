@@ -38,10 +38,9 @@ h3 {
     margin-top: 1rem;
 }
 @media (max-width: 500px) {
-    .title-container h3 {
+    .title-container .subtitle {
         display: none;
     }
-
 }
 
 nav {
