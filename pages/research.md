@@ -1,6 +1,7 @@
 ---
 title: Research
 date: 2022-01-02
+permalink: "/research/"
 
 ---
 

@@ -1,20 +1,22 @@
 ---
 title: Publications
 date: 2022-01-03
+permalink: "/publications/"
+
 
 ---
 
-### 2022
+## 2022
 
-AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, EJ Lundgren [senior author]. Prey are savvy about introduced predators. Accepted: Conservation Biology
+AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Prey are savvy about introduced predators. Accepted: *Conservation Biology*
 
-EJ Lundgren, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. Journal of Animal Ecology open access
+**EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access]()
 
-EIF Wooster, D Ramp, E Yanco, G Bonsen, EJ Lundgren, and AD Wallach. 2022. Predator protection dampens the landscape of fear. Accepted: Oikos
+EIF Wooster, D Ramp, E Yanco, G Bonsen, **EJ Lundgren**, and AD Wallach. 2022. Predator protection dampens the landscape of fear. Accepted: *Oikos*
 
-EJ Lundgren, KT Moeller, MO Clyne, OM Middleton, SM Mahoney, CL Kwapich. Cicada nymphs are important food for desert-dwelling American black bears. Ecology and Evolution 12(3): e8577. open access
+**EJ Lundgren**, KT Moeller, MO Clyne, OM Middleton, SM Mahoney, CL Kwapich. Cicada nymphs are important food for desert-dwelling American black bears. *Ecology and Evolution* 12(3): e8577. [open access]()
 
-### 2021
+## 2021
 
 EJ Lundgren, D Ramp, JC Stromberg, J Wu, NC Nieto, M Sluk, KT Moeller, and AD Wallach. 2021. Equids engineer desert water availability. Science 372:491-495. PDF
 
