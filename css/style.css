@@ -1,5 +1,6 @@
 :root {
-    --gap: min(1.5rem, 2vw);
+    /* --gap: min(1.5rem, 2vw); */
+    --gap: min(1.5rem, 5vw);
     color: #515151;
 }
 body {

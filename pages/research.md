@@ -2,7 +2,6 @@
 title: Research
 date: 2022-01-02
 permalink: "/research/"
-
 ---
 
 I am an ecologist who uses a variety of quantitative macroecological and field based approaches to study introduced species and novel ecosystems. I am interested in studying these pheneomena in the context of Earth’s history and with an eye to the influence of cultural values on how we interpret biotic change.
