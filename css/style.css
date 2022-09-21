@@ -1,5 +1,5 @@
 :root {
-    --gap: min(1.5rem, 2vw);
+    --gap: min(1.5rem, 1vw);
 }
 
 body {
@@ -8,11 +8,12 @@ body {
 }
 main {
     margin-top: 3rem;
+    padding: var(--gap);
+
 }
 .center-container {
     max-width: 40rem;
     margin: 0 auto;
-    padding: var(--gap);
 }
 .title-container {
     display: flex;
