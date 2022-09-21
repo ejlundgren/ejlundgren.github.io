@@ -5,6 +5,6 @@ module.exports = function(eleventyConfig) {
     
     return {
         markdownTemplateEngine: "njk",
-        passthroughFileCopy: true
+        passthroughFileCopy: true,
     }
 }
