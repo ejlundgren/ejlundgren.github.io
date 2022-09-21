@@ -11,7 +11,7 @@ tags: page
     {% if title !== "Home" %}
         <title>{{title}} &middot; Erick Lundgren</title>
     {% else %}
-        <title>Erick Lundgren &middot; Feral Earth Researcher</title>
+        <title>Erick Lundgren &middot; Feral Earth Research</title>
     {% endif %}
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/style.css">
@@ -22,9 +22,9 @@ tags: page
     <div class="center-container">
         <div class="title-container">
             <a href="/"><h1>Erick Lundgren</h1></a>
-            {% if title === "Home" %}
-            <span class="subtitle">Feral Earth Researcher</span>
-            {% endif %}
+            {# {% if title === "Home" %} #}
+            <span class="subtitle">Feral Earth Research</span>
+            {# {% endif %} #}
         </div>
         <nav>
             {% for section in collections.page %}
