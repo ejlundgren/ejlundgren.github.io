@@ -1,12 +1,17 @@
 :root {
-    /* --gap: min(1.5rem, 2vw); */
-    --gap: min(1.5rem, 5vw);
-    color: #515151;
+    /* edit colors here */
+    --font-color: #515151;
+    --subtitle-color: #c0c0c0;
+    --link-color: #268bd2;
+    --current-page-color: #bb5e32;
+
+    /* set font */
+    font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    color: var(--font-color);
     width: 100%;
-    padding: var(--gap);
+    padding: min(1.5rem, 5vw);
     padding-bottom: 5rem;
 }
 main {
@@ -27,11 +32,8 @@ figcaption a {
     color: inherit;
 }
 a {
-    color: #268bd2;
+    color: var(--link-color);
     text-decoration: none;
-}
-a:hover {
-    /* text-decoration: underline; */
 }
 p {
     margin-bottom: 1rem;
@@ -56,7 +58,7 @@ p {
 .subtitle {
     font-size: 18px;
     font-weight: 700;
-    color: #c0c0c0;
+    color: var(--subtitle-color);
 }
 @media (max-width: 500px) {
     .title-container .subtitle {
@@ -73,6 +75,8 @@ nav {
     flex-wrap: wrap;
 }
 
+/* This controls when the menu switches to mobile view */
+/* If you add a new page and the link list gets longer and you want to prevent the text from wrapping on smaller screens, you can change the "max-width: 400px" to something higher  */
 @media (max-width: 400px) {
     .title-container {
         justify-content: center;
@@ -84,11 +88,13 @@ nav {
         border-top: 1px black solid;
     }
 }
+
+/* Styles the nav menu item to indicate it is the current page */
 [aria-current="page"] {
+    color: var(--current-page-color);
     /* text-decoration: underline; */
-    color: #bb5e32;
-    /* color: black; */
-    /* background-color: lightcoral; */
+    /* text-decoration: overline; */
+    /* background-color: lightgray; */
     /* font-weight: bold; */
     /* box-shadow: 3px 3px 5px #bb5e32; */
 }
@@ -100,13 +106,10 @@ nav a {
 
 .pub-thumbs a {
     color: inherit;
-    /* color: rgb(120, 120, 120); */
-    /* font-weight: 600; */
 }
 .pub-thumbs {
     margin-top: 2rem;
     display: grid;
-    /* grid-template-columns: repeat(auto-fit, minmax(200px, 400px)); */
     grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
     justify-content: center;
     align-items: center;
@@ -120,7 +123,7 @@ nav a {
     text-align: center;
     font-size: small;
     opacity: 0;
-    /* transition: opacity 0.5s; */
+    transition: opacity 250ms;
     text-decoration: none;
 }
 .thumb:hover figcaption {

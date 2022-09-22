@@ -1,9 +1,26 @@
 # Erick Lundgren Portfolio Site
 
-Notes for editing will go here.
+## Images
 
-Images are being optimized for fast loading so instead of `<img src="blahblahblah.jpg" alt="alternate text incase the image doesn't load">`
+Images are being optimized for fast loading so instead of:
 
-They will look like `{ % image "blahblahblah.jpg", "alternate text incase the image doesn't load" % }`
+`<img src="blahblahblah.jpg" alt="alternate text">`
 
-etc. etc. etc.
+Images will look like:
+
+{% raw %}
+ `"{% image "blahblahblah.jpg", "alternate text" %}"`
+{% endraw %}
+
+You can edit styles in /css/style.css:
+
+`:root {
+    /* edit colors here */
+    --font-color: #515151;
+    --subtitle-color: #c0c0c0;
+    --link-color: #268bd2;
+    --current-page-color: #bb5e32;
+
+    /* set font */
+    font-family: Arial, Helvetica, sans-serif;
+}`
