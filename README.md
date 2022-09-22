@@ -8,13 +8,12 @@ Images are being optimized for fast loading so instead of:
 
 Images will look like:
 
-{% raw %}
- `"{% image "blahblahblah.jpg", "alternate text" %}"`
-{% endraw %}
+`"{% image "blahblahblah.jpg", "alternate text" %}"`
 
 You can edit styles in /css/style.css:
 
-`:root {
+```
+:root {
     /* edit colors here */
     --font-color: #515151;
     --subtitle-color: #c0c0c0;
@@ -23,4 +22,5 @@ You can edit styles in /css/style.css:
 
     /* set font */
     font-family: Arial, Helvetica, sans-serif;
-}`
+}
+```
