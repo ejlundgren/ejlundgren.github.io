@@ -4,11 +4,15 @@
     --subtitle-color: #c0c0c0;
     --link-color: #268bd2;
     --current-page-color: #bb5e32;
+    --background-color: #fff;
 
     /* set font */
     font-family: Arial, Helvetica, sans-serif;
 }
 body {
+    background-color: #fff; /* fallback incase browser doesn't support variables */
+    background-color: var(--background-color);
+    color: #515151; /* fallback incase browser doesn't support variables */
     color: var(--font-color);
     width: 100%;
     padding: min(1.5rem, 5vw);
@@ -32,6 +36,7 @@ figcaption a {
     color: inherit;
 }
 a {
+    color: #268bd2; /* fallback incase browser doesn't support variables */
     color: var(--link-color);
     text-decoration: none;
 }
@@ -58,6 +63,7 @@ p {
 .subtitle {
     font-size: 18px;
     font-weight: 700;
+    color: #c0c0c0; /* fallback incase browser doesn't support variables */
     color: var(--subtitle-color);
 }
 @media (max-width: 500px) {
@@ -91,6 +97,7 @@ nav {
 
 /* Styles the nav menu item to indicate it is the current page */
 [aria-current="page"] {
+    color: #bb5e32; /* fallback incase browser doesn't support variables */
     color: var(--current-page-color);
     /* text-decoration: underline; */
     /* text-decoration: overline; */

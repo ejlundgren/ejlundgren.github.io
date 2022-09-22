@@ -2,17 +2,25 @@
 
 ## Images
 
-Images are being optimized for fast loading so instead of:
+Images are being optimized for fast loading so instead of standard HTML like so:
 
-`<img src="blahblahblah.jpg" alt="alternate text">`
+```html
+<img src="blahblahblah.jpg" alt="alternate text">
+```
 
 Images will look like:
 
-`"{% image "blahblahblah.jpg", "alternate text" %}"`
-
-You can edit styles in /css/style.css:
-
+```nunjucks
+{% image "blahblahblah.jpg", "alternate text" %}
 ```
+
+This is calling an 11ty shortcode to create the optimized images. If this gives you any trouble down the line, you can just use normal HTML tags and as long as the image you are referencing is in the /assets/images/ folder it should work.
+
+## Styles / CSS
+
+You can edit styles in /css/style.css. Some obvious things you may want to tweak are right at the top, like fonts and colors.
+
+```css
 :root {
     /* edit colors here */
     --font-color: #515151;
@@ -24,3 +32,9 @@ You can edit styles in /css/style.css:
     font-family: Arial, Helvetica, sans-serif;
 }
 ```
+
+## Contact Page
+
+To make changes to the headshot see /_includes/contact.njk
+
+To make changes to the text see /pages/contact.md
