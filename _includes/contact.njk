@@ -1,0 +1,20 @@
+---
+layout: base.njk
+---
+
+<div class="contact-container">
+
+    <div class="photo">
+        <a href="/assets/images/headshot.jpg">
+            {% image "assets/images/headshot.jpg", "Headshot of Erick Lundgren" %}
+        </a>
+        <figcaption>
+            <a href="http://michaeldlundgren.com/">©Michael Lundgren</a>
+        </figcaption>
+    </div>
+
+    <div class="text">
+        {{ content | safe }}
+    </div>
+    
+</div>
