@@ -3,7 +3,7 @@ name: Build Eleventy
 on:
   push:
     branches:
-      - github-host
+      - master
 
 jobs:
   build:
