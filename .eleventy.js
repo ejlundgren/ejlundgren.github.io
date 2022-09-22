@@ -1,4 +1,4 @@
-const Image = require("@11ty/eleventy-img")
+const Image = require("@11ty/eleventy-img");
 
 module.exports = function(eleventyConfig) { 
     const imageShortcode = async (src, alt) => {
