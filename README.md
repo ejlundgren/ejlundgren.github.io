@@ -18,7 +18,7 @@ permalink: "/newpage/"
 
 ## Images
 
-Images are being optimized for fast loading so instead of standard HTML like so:
+Images are being optimized for quick loading on small screens so instead of standard HTML like so:
 
 ```html
 <img src="blahblahblah.jpg" alt="alternate text">
@@ -30,7 +30,7 @@ Images will look like:
 {% image "blahblahblah.jpg", "alternate text" %}
 ```
 
-This is calling an 11ty shortcode to create the optimized images. If this gives you any trouble down the line, you can just use normal HTML tags and as long as the image you are referencing is in the /assets/images/ folder it should work.
+This is calling an 11ty shortcode to create the optimized images. In the off chance that this gives you any trouble down the line, you can just use normal HTML tags and as long as the image you are referencing is in the /assets/images/ folder it should work.
 
 ## Styles / CSS
 

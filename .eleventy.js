@@ -1,6 +1,6 @@
 const Image = require("@11ty/eleventy-img")
 
-module.exports = function(eleventyConfig) {
+module.exports = function(eleventyConfig) { 
     const imageShortcode = async (src, alt) => {
         if (!alt) {
           throw new Error(`Missing \`alt\` on myImage from: ${src}`);
@@ -30,10 +30,9 @@ module.exports = function(eleventyConfig) {
         const source = `<source type="image/webp" srcset="${srcset["webp"]}">`;
       
         const img = `<img
-          loading="lazy"
           alt="${alt}"
           src="${lowestSrc.url}"
-          sizes='100vw'
+          sizes='50vw'
           srcset="${srcset["jpeg"]}">`;
         
         const stringReturn = `<picture> ${source} ${img} </picture>`;
