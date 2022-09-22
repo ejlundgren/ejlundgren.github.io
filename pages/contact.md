@@ -1,5 +1,8 @@
 ---
 layout: contact.njk
+title: Contact
+date: 2022-01-05
+permalink: "/contact/"
 ---
 
 ### Affiliation
@@ -19,9 +22,10 @@ Aarhus C, Denmark
 
 2009—BA in Biology, Earlham College
 
-
 ### Contact
+
 erick.lundgren@gmail.com
+
 <div class="icon-container">
     <a href="https://twitter.com/ejlundyyy">
         <img src="/assets/images/icons/twitter.png" class="icon">

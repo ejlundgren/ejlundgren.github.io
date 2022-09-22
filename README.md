@@ -1,4 +1,20 @@
+---
+templateEngineOverride: md
+---
+
 # Erick Lundgren Portfolio Site
+
+## Adding pages
+
+If you want to add a page, you can just create a new markdown file in the pages folder and in the frontmatter give it a title, permalink, and a date. The dates are arbitrary and don't display anywhere but control the order in which the pages show up in the navigation. It's a little hacky but hey.
+
+```markdown
+---
+title: New Page
+date: to go last put a date after 2022-01-05
+permalink: "/newpage/"
+---
+```
 
 ## Images
 
@@ -37,4 +53,4 @@ You can edit styles in /css/style.css. Some obvious things you may want to tweak
 
 To make changes to the headshot see /_includes/contact.njk
 
-To make changes to the text see /pages/contact.md
+To make changes to the contact page text see /pages/contact.md
