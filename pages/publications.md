@@ -5,7 +5,7 @@ permalink: "/publications/"
 ---
 
 ### 2022
-AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Prey are savvy about introduced predators. Accepted: *Conservation Biology*
+AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. Accepted: *Conservation Biology* doi:10.1111/cobi.14012
 
 **EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access](http://doi.org/10.1111/1365-2656.13766)
 
