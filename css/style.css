@@ -133,6 +133,11 @@ nav a {
     transition: opacity 250ms;
     text-decoration: none;
 }
+@media (hover: none) {
+    .pub-thumbs figcaption {
+        opacity: 1;
+    }
+}
 .thumb:hover figcaption {
     opacity: 1;
     text-decoration: none;
