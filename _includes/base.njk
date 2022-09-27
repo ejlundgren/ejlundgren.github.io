@@ -22,7 +22,7 @@ tags: page
     <meta name="description" content="{{description}}" />
     <link rel="canonical" href="https://ejlundgren.github.io{{page.url}}" />
     <meta name="robots" content="index, follow" />
-    
+    <!-- social -->
     {% if title !== "Home" %}
     <meta property="og:title" content="{{title}} &middot; Erick Lundgren"/>
     {% else %}
@@ -32,6 +32,19 @@ tags: page
     <meta property="og:description" content="{{description}}" />
     <meta property="og:image" content="/assets/images/social2.jpg" />
     <meta property="og:type" content="website" />
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta
+        name="twitter:description"
+        content="{{description}}"
+    />
+    <meta name="twitter:title" content="Erick Lundgren &middot; Feral Earth Research" />
+    <meta name="twitter:site" content="@ejlundyyy" />
+    <meta
+        name="twitter:image"
+        content="https://ejlundgren.github.io/assets/images/social2.jpg"
+    />
+    <meta name="twitter:creator" content="@ejlundyyy" />
 </head>
 <body>
     <div class="center-container">
