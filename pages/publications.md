@@ -3,13 +3,17 @@ title: Publications
 date: 2022-01-03
 permalink: "/publications/"
 ---
+### Pre-prints / In Review
+J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to *Homo sapiens* rather than climate. *bioRxiv* https://doi.org/10.1101/2022.08.13.503826
+
+L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. In Review: *Nature Communications*
 
 ### 2022
 AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. Accepted: *Conservation Biology* doi:10.1111/cobi.14012
 
 **EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access](http://doi.org/10.1111/1365-2656.13766)
 
-EIF Wooster, D Ramp, E Yanco, G Bonsen, **EJ Lundgren**, and AD Wallach. 2022. Predator protection dampens the landscape of fear. Accepted: *Oikos* 
+EIF Wooster, D Ramp, E Yanco, G Bonsen, **EJ Lundgren**, and AD Wallach. 2022. Predator protection dampens the landscape of fear. *Oikos* https://doi.org/10.1111/oik.09059
 
 **EJ Lundgren**, KT Moeller, MO Clyne, OM Middleton, SM Mahoney, CL Kwapich. Cicada nymphs are important food for desert-dwelling American black bears. *Ecology and Evolution* 12(3): e8577. [open access](https://doi.org/10.1002/ece3.8577)
 
