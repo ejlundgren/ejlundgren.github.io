@@ -22,7 +22,9 @@ Quirks and Quarks, CBC: [How Pablo Escobar's escaped hippos are helping to resto
 
 #### *Written:*
 #### 2022
-The New York Times: [Death Valley’s Invasive Donkeys Have Become Cat Food](https://www.nytimes.com/2022/08/15/science/donkeys-mountain-lions-death-valley.html)
+Los Angeles Times: [Mountain lions are eating California wild donkeys. Why scientists say this a good thing](https://www.latimes.com/california/story/2022-10-05/mountain-lions-are-eating-wild-donkeys-why-its-good)
+
+The New York Times and Seattle Times: [Death Valley’s Invasive Donkeys Have Become Cat Food](https://www.nytimes.com/2022/08/15/science/donkeys-mountain-lions-death-valley.html)
 
 Smithsonian Magazine: [Cougars Are Killing Feral Donkeys, and That’s Good for Wetlands](https://www.smithsonianmag.com/science-nature/cougars-are-killing-feral-donkeys-and-thats-good-for-wetlands-180980578/)
 
