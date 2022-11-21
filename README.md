@@ -1,5 +1,6 @@
 ---
 templateEngineOverride: md
+eleventyExcludeFromCollections: true
 ---
 
 # Erick Lundgren Portfolio Site
