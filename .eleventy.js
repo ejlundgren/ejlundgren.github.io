@@ -37,9 +37,15 @@ module.exports = function(eleventyConfig) {
         
         const stringReturn = `<picture> ${source} ${img} </picture>`;
         return stringReturn;
-      };
+    };
 
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+    
+    eleventyConfig.addCollection("orderedPages", function (collection) {
+      return collection.getFilteredByTag("page").sort((a, b) => {
+        return a.data.order - b.data.order;
+      });
+    });
 
     eleventyConfig.addPassthroughCopy('css');
     eleventyConfig.addPassthroughCopy('assets');

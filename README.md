@@ -6,12 +6,12 @@ templateEngineOverride: md
 
 ## Adding pages
 
-If you want to add a page, you can just create a new markdown file in the pages folder and in the frontmatter give it a title, permalink, and a date. The dates are arbitrary and don't display anywhere but control the order in which the pages show up in the navigation. It's a little hacky but hey.
+If you want to add a page, you can just create a new markdown file in the pages folder and in the frontmatter give it a title, permalink, and an order for the ordering in the navigation.
 
 ```markdown
 ---
 title: New Page
-date: to go last put a date after 2022-01-05
+order: 6
 permalink: "/newpage/"
 ---
 ```

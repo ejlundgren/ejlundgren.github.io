@@ -55,7 +55,7 @@ tags: page
             {# {% endif %} #}
         </div>
         <nav>
-            {% for section in collections.page %}
+            {% for section in collections.orderedPages %}
                 <div><a href="{{section.url}}" {% if page.url == section.url %} aria-current="page"{% endif %}>{{section.data.title}}</a></div>
             {% endfor %}
         </nav>

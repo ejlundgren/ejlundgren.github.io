@@ -1,7 +1,7 @@
 ---
 layout: contact.njk
 title: Contact
-date: 2022-01-05
+order: 5
 permalink: "/contact/"
 ---
 
