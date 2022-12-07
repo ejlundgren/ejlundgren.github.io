@@ -9,7 +9,7 @@ J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J
 L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. In Review: *Nature Communications*
 
 ### 2022
-AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. Accepted: *Conservation Biology* doi:10.1111/cobi.14012 [PDF](assets/pubs/Wallach_et_al_2022.pdf)
+AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. *Conservation Biology* doi:10.1111/cobi.14012 [PDF](assets/pubs/Wallach_et_al_2022.pdf)
 
 **EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access](http://doi.org/10.1111/1365-2656.13766) *See wonderful [Research Highlight](https://doi.org/10.1111/1365-2656.13811) written by Rafael Raimundo!*
 
