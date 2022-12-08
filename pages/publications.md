@@ -11,7 +11,7 @@ L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenn
 ### 2022
 AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. *Conservation Biology* doi:10.1111/cobi.14012 [PDF](assets/pubs/Wallach_et_al_2022.pdf)
 
-**EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access](http://doi.org/10.1111/1365-2656.13766). Featured in [**Research Highlight**](https://doi.org/10.1111/1365-2656.13811) by Rafael Raimundo
+**EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. *Journal of Animal Ecology* [open access](http://doi.org/10.1111/1365-2656.13766). **Featured in [Research Highlight](https://doi.org/10.1111/1365-2656.13811)**
 
 EIF Wooster, D Ramp, E Yanco, G Bonsen, **EJ Lundgren**, and AD Wallach. 2022. Predator protection dampens the landscape of fear. *Oikos* https://doi.org/10.1111/oik.09059
 
