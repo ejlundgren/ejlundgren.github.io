@@ -21,10 +21,13 @@ Outpost Media: [Wild Science: Ecosystem Engineers](https://www.outpostdigitalcin
 Quirks and Quarks, CBC: [How Pablo Escobar's escaped hippos are helping to restore an ancient ecosystem](https://www.cbc.ca/radio/quirks/how-pablo-escobar-s-escaped-hippos-are-helping-to-restore-an-ancient-ecosystem-1.5512565)
 
 #### *Written:*
+#### 2023
+Tove Danovich, The Atlantic: [Give Invasive Species a Job](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2023%2F08%2Finvasive-species-wild-horses-fires%2F675043%2F)
+
 #### 2022
 Los Angeles Times: [Mountain lions are eating California wild donkeys. Why scientists say this a good thing](https://www.latimes.com/california/story/2022-10-05/mountain-lions-are-eating-wild-donkeys-why-its-good)
 
-The New York Times and Seattle Times: [Death Valley’s Invasive Donkeys Have Become Cat Food](https://www.nytimes.com/2022/08/15/science/donkeys-mountain-lions-death-valley.html)
+Asher Elbein, The New York Times and Seattle Times: [Death Valley’s Invasive Donkeys Have Become Cat Food](https://www.nytimes.com/2022/08/15/science/donkeys-mountain-lions-death-valley.html)
 
 Smithsonian Magazine: [Cougars Are Killing Feral Donkeys, and That’s Good for Wetlands](https://www.smithsonianmag.com/science-nature/cougars-are-killing-feral-donkeys-and-thats-good-for-wetlands-180980578/)
 
