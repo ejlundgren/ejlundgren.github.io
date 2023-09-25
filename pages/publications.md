@@ -4,9 +4,28 @@ order: 3
 permalink: "/publications/"
 ---
 ### Pre-prints / In Review
-J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to *Homo sapiens* rather than climate. *bioRxiv* https://doi.org/10.1101/2022.08.13.503826
+**EJ Lundgren****, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. In Revision: Science.
 
-L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. In Review: *Nature Communications*
+J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, **EJ Lundgren** [*co-senior*], J-C Svenning. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. In Revision: Nature Ecology and Evolution
+
+J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to Homo sapiens rather than climate. In Revision: Nature Communications  bioRxiv: https://doi.org/10.1101/2022.08.13.503826
+
+L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. In Revision: Nature Communications
+
+OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: Communications Biology
+
+J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. In Revision: Nature Ecology and Evolution
+
+D Chala, D Tsegaye, H Alem, BA Tadesse, ME Moges, NT Abate, AT Tadesse, A Aticho, A Gansamo, L Wang, **EJ Lundgren**, J Kerby, J-C Svenning. Can water hyacinth represent a real invasive species in non-eutrophied water bodies? Towards sustainable solutions for water hyacinth invasions of tropical freshwaters. In Review: Nature Sustainability
+
+WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? In Review: Biological Conservation
+
+EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Review: Global Ecology and Biogeography
+
+AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: Conservation Biology
+
+### 2023
+EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. Accepted: Trends in Ecology and the Environment
 
 ### 2022
 AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. *Conservation Biology* doi:10.1111/cobi.14012 [PDF](assets/pubs/Wallach_et_al_2022.pdf)
