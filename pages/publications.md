@@ -8,8 +8,6 @@ permalink: "/publications/"
 
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, **EJ Lundgren** [*co-senior*], J-C Svenning. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. In Revision: __*Nature Ecology and Evolution*__
 
-J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to Homo sapiens rather than climate. In Revision: __*Nature Communications*__  bioRxiv: https://doi.org/10.1101/2022.08.13.503826
-
 OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Communications Biology*__
 
 J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. In Revision: __*Nature Ecology and Evolution*__
@@ -24,6 +22,8 @@ AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predato
 
 ### 2023
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
+
+J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to Homo sapiens rather than climate. Accepted: __*Nature Communications*__  bioRxiv: https://doi.org/10.1101/2022.08.13.503826
 
 L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. Accepted: __*One Earth*__
 
