@@ -4,7 +4,7 @@ order: 3
 permalink: "/publications/"
 ---
 ### Pre-prints / In Review
-**EJ Lundgren****, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. In Revision: __*Science*__.
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. In Revision: __*Science*__.
 
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, **EJ Lundgren** [*co-senior*], J-C Svenning. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. In Revision: __*Nature Ecology and Evolution*__
 
