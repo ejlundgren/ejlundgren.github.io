@@ -23,7 +23,7 @@ EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional trait
 AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
 
 ### 2023
-EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. Accepted: __*Trends in Ecology and the Environment*__
+EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
 
 L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. Accepted: __*One Earth*__
 
