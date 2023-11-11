@@ -6,7 +6,7 @@ permalink: "/publications/"
 ### Pre-prints / In Review
 **EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. In Revision: __*Science*__.
 
-J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, **EJ Lundgren** [*co-senior*], J-C Svenning. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. In Revision: __*Nature Ecology and Evolution*__
+**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. In Review: __*Conservation Biology*__ 
 
 OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Communications Biology*__
 
@@ -21,6 +21,8 @@ EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional trait
 AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
 
 ### 2023
+J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. Accepted: __*Nature Ecology and Evolution*__
+
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
 
 J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J-C Svenning. Worldwide late-Quaternary population declines in extant megafauna are due to Homo sapiens rather than climate. Accepted: __*Nature Communications*__  bioRxiv: https://doi.org/10.1101/2022.08.13.503826
