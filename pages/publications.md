@@ -4,8 +4,6 @@ order: 3
 permalink: "/publications/"
 ---
 ### Pre-prints / In Review
-**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. In Revision: __*Science*__.
-
 **EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. In Review: __*Conservation Biology*__ 
 
 OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Communications Biology*__
@@ -21,6 +19,8 @@ EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional trait
 AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
 
 ### 2023
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, J-C Svenning. Functional traits—not nativeness—shape the effects of megafauna on plants. Accepted: __*Science*__.
+
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. Accepted: __*Nature Ecology and Evolution*__
 
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
@@ -29,9 +29,9 @@ J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, J
 
 L Wang, JPGM Cromsigt, R Buitenwerf, **EJ Lundgren**, W Li, ES Bakker, J-C Svenning. Megafauna explain tree cover and its heterogeneity in natural ecosystems globally. Accepted: __*One Earth*__
 
-### 2022
 AD Wallach, D Ramp, A Benítez, EIF Wooster, S Carroll, A Carthey, E Rogers, O Middleton, KJA Zawada, J-C Svenning, E Avidor, **EJ Lundgren** [*senior author*]. Savviness of prey to introduced predators. __*Conservation Biology*__ doi:10.1111/cobi.14012 [PDF](assets/pubs/Wallach_et_al_2022.pdf)
 
+### 2022
 **EJ Lundgren**, D Ramp, OM Middleton, EIF Wooster, E Kusch, M Balisi, WJ Ripple, CD Hasselerharm, JN Sanchez, M Mills, and AD Wallach. Novel trophic cascade between cougars and feral donkeys shapes desert wetlands. __*Journal of Animal Ecology*__ [open access](http://doi.org/10.1111/1365-2656.13766). **Featured in [Research Highlight](https://doi.org/10.1111/1365-2656.13811)**
 
 EIF Wooster, D Ramp, E Yanco, G Bonsen, **EJ Lundgren**, and AD Wallach. 2022. Predator protection dampens the landscape of fear. __*Oikos*__ https://doi.org/10.1111/oik.09059
