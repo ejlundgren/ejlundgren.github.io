@@ -16,14 +16,15 @@ EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional trait
 
 AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
 
+### 2024
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616
+
+J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. __*Nature Ecology and Evolution*__ 10.1038/s41559-024-02327-6
+
 ### 2023
-**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. Accepted: __*Science*__.
-
-J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. Accepted: __*Nature Ecology and Evolution*__
-
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
 
-EIF Wooster, D Ramp, **EJ Lundgren**, GT Bonsen, A Geisler-Edge, D Ben-Ami, AJR Carthey, S Carroll, O Keynan, Y Olek, A O'Neill, U Shanas, and AD Wallach. Prey responses to predators are not determined by nativeness. Accepted: __*Ecography*__
+EIF Wooster, D Ramp, **EJ Lundgren**, GT Bonsen, A Geisler-Edge, D Ben-Ami, AJR Carthey, S Carroll, O Keynan, Y Olek, A O'Neill, U Shanas, and AD Wallach. Prey responses to predators are not determined by nativeness. __*Ecography*__ https://doi.org/10.1111/ecog.07031
 
 J Bergman, RO Pedersen, **EJ Lundgren**, RT Lemoine, S Monsarrat, MH Schierup, and J-C Svenning. Worldwide Late Pleistocene and Early Holocene population declines in extant megafauna are associated with Homo sapiens expansion rather than climate change. __*Nature Communications*__  14 7679. https://doi.org/10.1038/s41467-023-43426-5
 
