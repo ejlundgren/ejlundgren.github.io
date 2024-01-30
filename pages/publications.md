@@ -8,13 +8,15 @@ permalink: "/publications/"
 
 OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Communications Biology*__
 
+AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
+
+J-C Svenning, R Lemoine, J Bergman, R Buitenwerf, E le Roux, **EJ Lundgren**, N Mungi, R Pedersen. Late-Quaternary megafauna extinctions: patterns, drivers, consequences and implications for conservation and restoration. In Review: __*Cambridge Prisms: Extinction*__
+
 J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. In Revision: __*Nature Ecology and Evolution*__
 
 WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? In Review: __*Biological Conservation*__
 
 EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Revision: __*Global Ecology and Biogeography*__
-
-AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Review: __*Conservation Biology*__
 
 ### 2024
 **EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616
