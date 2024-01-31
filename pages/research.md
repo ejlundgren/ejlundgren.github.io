@@ -6,7 +6,7 @@ permalink: '/research/'
 
 I am an ecologist who uses a variety of quantitative macroecological and field based approaches to study introduced species and novel ecosystems. I am interested in studying these phenomena in the context of Earth's history and with an eye to the influence of cultural values on how we interpret biotic change.
 
-We are in the midst of the Great Reshuffling: a historically unprecedented shuffling of species, both from introductions and as species migrate on their own volition in response to climate and landscape change. This reshuffling is only going to accelerate: climate projections put us on a course to the Eocene—a time when Greenland was a warm-temperate forest and New Jersey was tropical. Will future novel, no-analog communities function similar to native, heirloom communities and will they support biodiversity and human societies?
+We are in the midst of the Great Reshuffling: a historically unprecedented shuffling of species, from introductions but also from the migration of species in response to climate and landscape change. This reshuffling is only going to accelerate: climate projections put us on a course to the Eocene—a time when Greenland was a warm-temperate forest and New Jersey was tropical. Will future novel, no-analog communities function similar to native, heirloom communities and will they support biodiversity and human societies?
 
 <<<<<<< Updated upstream
 {% image "assets/images/Eocene vegetation map.png", "Eocene vegetation map" %}
