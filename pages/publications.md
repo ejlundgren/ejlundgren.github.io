@@ -19,7 +19,7 @@ WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, A
 EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Revision: __*Global Ecology and Biogeography*__
 
 ### 2024
-**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](assets/pubs/Lundgren_et_al_2024.pdf)
 
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. __*Nature Ecology and Evolution*__ 10.1038/s41559-024-02327-6
 

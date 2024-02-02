@@ -15,7 +15,7 @@ My research—spurred by field observations that did not square with the paradig
 
 Moving forward, I am interested in continuing curiosity-driven fieldwork in novel ecosystems as well as leveraging large meta-analytic datasets to disentangle when nativeness actually matters. In what systems and with what organisms could an extraterrestrial ecologist determine whether a species was native or introduced based on their actual effects? 
 
-Some of this work is already underway, for instance I found that functional traits (particularly muzzle width and body mass) shape the effects of megafauna on plant diversity, regardless of nativeness or coevolutionary history (Accepted in *Science*). 
+Some of this [work](assets/pubs/Lundgren_et_al_2024.pdf) is already underway, for instance I found that functional traits (particularly muzzle width and body mass) shape the effects of megafauna on plant diversity, regardless of nativeness or coevolutionary history. 
 
 I hope to expand this work by incorporating tools from the field of metascience, including by working with ecologists of divergent views to collaboratively develop hypotheses in good faith and to test them independently with the same data. In this way, I hope to facilitate a transition from acrimonious name-calling (e.g., ‘invasive species science denialists’) to the co-production of transformational knowledge.
 
