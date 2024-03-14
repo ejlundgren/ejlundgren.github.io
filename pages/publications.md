@@ -81,6 +81,9 @@ KT Moeller, AK Moeller, F Moyano, and **EJ Lundgren**. Observation of an America
 PB Shafroth, KJ Schlatter, M Gomez-Sapiens, **EJ Lundgren**, MR Grabau, J Ramírez-Hernández, E Rodríguez-Burgueño, and KW Flessa. A large-scale experiment for riparian restoration in the Colorado River delta. __*Ecological Engineering*__ http://dx.doi.org/10.1016/j.ecoleng.2017.02.016 [PDF](/assets/pubs/Shafroth_et_al_2017.pdf)
 
 ### Non-academic publications
+### 2024
+**EJ Lundgren**. February 1, 2024. Horses, camels and deer get a bad rap for razing plants—but our new research shows they’re no worse than native animals. [The Conversation](https://theconversation.com/horses-camels-and-deer-get-a-bad-rap-for-razing-plants-but-our-new-research-shows-theyre-no-worse-than-native-animals-221873)
+
 ### 2023
 EIF Wooster and **EJ Lundgren**. October 23, 2023. "From meerkat school to whale-tail slapping and oyster smashing, how clever predators shape their world" [The Conversation](https://theconversation.com/from-meerkat-school-to-whale-tail-slapping-and-oyster-smashing-how-clever-predators-shape-their-world-214213)
 
