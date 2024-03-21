@@ -25,6 +25,8 @@ J-C Svenning, R Lemoine, J Bergman, R Buitenwerf, E le Roux, **EJ Lundgren**, N 
 
 L Barbero-Palacios, IC Barrio, M Garcia Criado, I Kater, M Petit Bon, THM Kolari, R Bjorkas, J Trepel, **EJ Lundgren**, K Bjornsdottir, BC Hwang, L Bartra-Cabre, M Defourneaux, J Ramsay, TK Lameris, AJ Leffler, JG Lock, MS Kuoppamaa, JA Kristensen, A Bjorkman, I Myers-Smith, N Lecomte, JC Axmacher, O Gilg, M Den Herder, EP Pagneux, A Skarin, N Sokolova, T Windirsch, HC Wheeler, E Serrano, T Virtanen, DS Hik, E Kaarlejarvi, JDM Speed, EM Soininen. Herbivore diversity effects on Arctic tundra ecosystems—a systematic review. Accepted: __*Environmental Evidence*__
 
+Trepel, J, AJ Abraham, **EJ Lundgren**, KM Ferraro, C Fløjgaard, L Haugaard, P Sunde, RØ Pedersen, M Tietje, J Kamp, E le Roux (2024). Zoogeochemistry of a protected area: Driven by anthropogenic impacts and animal behavior. __*Conservation Science and Practice.*__ doi: 10.1111/csp2.13107
+
 ### 2023
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](assets/pubs/Wooster_et_al_2023.pdf)
 
