@@ -11,11 +11,11 @@ EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional trait
 EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, **EJ Lundgren** [co-senior], CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Review: __*Current Biology*__
 
 ### 2024
-**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024.pdf)
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024a.pdf)
 
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. __*Nature Ecology and Evolution*__ 10.1038/s41559-024-02327-6 [PDF](../assets/pubs/Trepel_et_al_2024.pdf)
 
-**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. __*Conservation Biology*__ e14270 https://doi.org/10.1111/cobi.14270 
+**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. __*Conservation Biology*__ e14270 https://doi.org/10.1111/cobi.14270 [PDF](../assets/pubs/Lundgren_et_al_2024b.pdf)
 
 J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. Accepted: __*Nature Ecology and Evolution*__
 
