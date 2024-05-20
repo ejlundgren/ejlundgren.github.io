@@ -4,24 +4,24 @@ order: 3
 permalink: "/publications/"
 ---
 ### Pre-prints / In Review
-AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Revision: __*Conservation Biology*__
-
-J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. In Revision: __*Nature Ecology and Evolution*__
-
-WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? In Review: __*Biological Conservation*__
+AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Revision: __*Global Ecology and Biogeography*__
 
 EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Revision: __*Global Ecology and Biogeography*__
 
-OS Middleton, **EJ Lundgren**, AD Wallach,  EIF Wooster, D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Communications Biology*__
+EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, **EJ Lundgren** [co-senior], CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Review: __*Current Biology*__
 
 ### 2024
-**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](assets/pubs/Lundgren_et_al_2024.pdf)
+**EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024.pdf)
 
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. __*Nature Ecology and Evolution*__ 10.1038/s41559-024-02327-6 [PDF](assets/pubs/Trepel_et_al_2024.pdf)
 
-**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. Accepted: __*Conservation Biology*__ 
+**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. __*Conservation Biology*__ e14270 https://doi.org/10.1111/cobi.14270 
+
+J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. Accepted: __*Nature Ecology and Evolution*__
 
 J-C Svenning, R Lemoine, J Bergman, R Buitenwerf, E le Roux, **EJ Lundgren**, N Mungi, R Pedersen. Late-Quaternary megafauna extinctions: patterns, drivers, consequences and implications for conservation and restoration. Accepted: __*Cambridge Prisms: Extinction*__
+
+WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? Accepted: __*Biological Conservation*__
 
 L Barbero-Palacios, IC Barrio, M Garcia Criado, I Kater, M Petit Bon, THM Kolari, R Bjorkas, J Trepel, **EJ Lundgren**, K Bjornsdottir, BC Hwang, L Bartra-Cabre, M Defourneaux, J Ramsay, TK Lameris, AJ Leffler, JG Lock, MS Kuoppamaa, JA Kristensen, A Bjorkman, I Myers-Smith, N Lecomte, JC Axmacher, O Gilg, M Den Herder, EP Pagneux, A Skarin, N Sokolova, T Windirsch, HC Wheeler, E Serrano, T Virtanen, DS Hik, E Kaarlejarvi, JDM Speed, EM Soininen. Herbivore diversity effects on Arctic tundra ecosystems—a systematic review. Accepted: __*Environmental Evidence*__
 
