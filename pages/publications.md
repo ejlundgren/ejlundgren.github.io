@@ -8,7 +8,7 @@ AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predato
 
 EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Revision: __*Global Ecology and Biogeography*__
 
-EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, **EJ Lundgren** [co-senior], CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Review: __*Current Biology*__
+EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, **EJ Lundgren** [co-senior], CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Current Biology*__
 
 ### 2024
 **EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024a.pdf)
