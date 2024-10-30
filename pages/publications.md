@@ -3,12 +3,6 @@ title: Publications
 order: 3
 permalink: "/publications/"
 ---
-### Pre-prints / In Review
-AD Wallach, **EJ Lundgren**, EIF Wooster. Scant evidence that introduced predators cause extinctions. In Revision: __*Global Ecology and Biogeography*__
-
-EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. In Revision: __*Global Ecology and Biogeography*__
-
-EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, **EJ Lundgren** [co-senior], CJ Sandom. Introduced predators rewire Australia’s mammalian predator-prey interaction networks. In Revision: __*Current Biology*__
 
 ### 2024
 **EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024a.pdf)
@@ -16,6 +10,10 @@ EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek
 J Trepel [*MS student*], E le Roux, AJ Abraham, R Buteinwerf, J Kamp, JA Kristensen, M Tietje, J-C Svenning, and **EJ Lundgren** [*co-senior*]. Wild megafauna shape ecosystem properties and promote spatial heterogeneity globally. __*Nature Ecology and Evolution*__ 10.1038/s41559-024-02327-6 [PDF](../assets/pubs/Trepel_et_al_2024.pdf)
 
 **EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, D Ramp. Preventing extinction in an age of species migration and planetary change. __*Conservation Biology*__ e14270 https://doi.org/10.1111/cobi.14270 [PDF](../assets/pubs/Lundgren_et_al_2024b.pdf)
+
+EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek, CE Gordon, J-C Svenning, M Davis, JPW Scharlemann, CJ Sandom, **EJ Lundgren** [*co-senior*]. Australia’s recently established predators restore complexity to food webs simplified by extinction. __*Current Biology*__ https://doi.org/10.1016/j.cub.2024.09.049
+
+EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. __*Global Ecology and Biogeography*__ https://doi.org/10.1111/geb.13909
 
 J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. Accepted: __*Nature Ecology and Evolution*__
 
@@ -26,6 +24,8 @@ WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, A
 L Barbero-Palacios, IC Barrio, M Garcia Criado, I Kater, M Petit Bon, THM Kolari, R Bjorkas, J Trepel, **EJ Lundgren**, K Bjornsdottir, BC Hwang, L Bartra-Cabre, M Defourneaux, J Ramsay, TK Lameris, AJ Leffler, JG Lock, MS Kuoppamaa, JA Kristensen, A Bjorkman, I Myers-Smith, N Lecomte, JC Axmacher, O Gilg, M Den Herder, EP Pagneux, A Skarin, N Sokolova, T Windirsch, HC Wheeler, E Serrano, T Virtanen, DS Hik, E Kaarlejarvi, JDM Speed, EM Soininen. Herbivore diversity effects on Arctic tundra ecosystems—a systematic review. Accepted: __*Environmental Evidence*__
 
 Trepel, J, AJ Abraham, **EJ Lundgren**, KM Ferraro, C Fløjgaard, L Haugaard, P Sunde, RØ Pedersen, M Tietje, J Kamp, E le Roux (2024). Zoogeochemistry of a protected area: Driven by anthropogenic impacts and animal behavior. __*Conservation Science and Practice.*__ doi: 10.1111/csp2.13107
+
+SM Mahoney, P Davis, C Dodge, C Edwards, JA Holmes, Q Jennings, MJ Johnson, **EJ Lundgren**, MA McLeod, D Moore, PJ Motyka, A Pellegrini, DN Rakestraw, ANB Smith, RR Winton, E Woodhouse. Evidence of honest signalling in a suboscine bird: Southwestern willow flycatcher song frequency is positively related to apparent reproductive success. __*Behaviour*__ 1(aop):1-21.
 
 ### 2023
 EIF Wooster, AD Wallach, LA Stanton, KM Gaynor, D Ramp, **EJ Lundgren** [*senior author*]. Animal cognition and culture mediate predator-prey interactions. __*Trends in Ecology and the Environment*__ https://doi.org/10.1016/j.tree.2023.09.012 [PDF](../assets/pubs/Wooster_et_al_2023.pdf)

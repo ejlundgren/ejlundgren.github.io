@@ -8,11 +8,10 @@ permalink: "/contact/"
 ### Affiliation
 
 Postdoctoral Researcher
-BIOCHANGE,
-Department of Biology,
-Aarhus University
-Building 1540,
-Aarhus C, Denmark
+Centre for Open Science and Research Synthesis
+Faculty of Science
+University of Alberta
+Edmonton, Alberta, Canada
 
 ### Academic qualifications
 
