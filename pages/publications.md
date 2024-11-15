@@ -15,11 +15,13 @@ EIF Wooster, OS Middleton, AD Wallach,  D Ramp, VK Harris, J Rowan, SD Schowanek
 
 EIF Wooster, **EJ Lundgren**, CJ Sandom, J Rowan, OS Middleton. Functional traits of the world’s late Quaternary mammalian hypercarnivores. __*Global Ecology and Biogeography*__ https://doi.org/10.1111/geb.13909
 
-J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. Accepted: __*Nature Ecology and Evolution*__
+J Rowan, A Du,  **EJ Lundgren**, JT Faith, L Beaudrot, CJ Campisano, J Joordens, IA Lazagabaster, EM Locke, IE Smail, KE Reed, JM Kamilar. The biogeographic context of hominin evolution in eastern Africa. __*Nature Ecology and Evolution*__ https://doi.org/10.1038/s41559-024-02462-0
 
-J-C Svenning, R Lemoine, J Bergman, R Buitenwerf, E le Roux, **EJ Lundgren**, N Mungi, R Pedersen. Late-Quaternary megafauna extinctions: patterns, drivers, consequences and implications for conservation and restoration. Accepted: __*Cambridge Prisms: Extinction*__
+J-C Svenning, R Lemoine, J Bergman, R Buitenwerf, E le Roux, **EJ Lundgren**, N Mungi, R Pedersen. Late-Quaternary megafauna extinctions: patterns, drivers, consequences and implications for conservation and restoration. __*Cambridge Prisms: Extinction*__ 2:e5
 
-WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? Accepted: __*Biological Conservation*__
+PJ Pereyra, P de la Barra, LLD Amione, A Arcángel, BMM Buch, E Rodríguez, MA Maldonado, L Hünicken, **EJ Lundgren**, AD Wallach. Human beings and the species they introduce are not a “cancer” of Planet Earth. __*BioScience*__ biae112.
+
+WJ Ripple, Rl Beschta, AD Craig, **EJ Lundgren**, LC Satterfield, ST Woodrich, AJ Wirsing. Predator decline and shifting baselines: are we studying a sick patient? __*Biological Conservation*__ biae034.
 
 L Barbero-Palacios, IC Barrio, M Garcia Criado, I Kater, M Petit Bon, THM Kolari, R Bjorkas, J Trepel, **EJ Lundgren**, K Bjornsdottir, BC Hwang, L Bartra-Cabre, M Defourneaux, J Ramsay, TK Lameris, AJ Leffler, JG Lock, MS Kuoppamaa, JA Kristensen, A Bjorkman, I Myers-Smith, N Lecomte, JC Axmacher, O Gilg, M Den Herder, EP Pagneux, A Skarin, N Sokolova, T Windirsch, HC Wheeler, E Serrano, T Virtanen, DS Hik, E Kaarlejarvi, JDM Speed, EM Soininen. Herbivore diversity effects on Arctic tundra ecosystems—a systematic review. Accepted: __*Environmental Evidence*__
 

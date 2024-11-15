@@ -7,10 +7,10 @@ permalink: "/contact/"
 
 ### Affiliation
 
-Postdoctoral Researcher
-Centre for Open Science and Research Synthesis
-Faculty of Science
-University of Alberta
+Postdoctoral Researcher<br />
+Centre for Open Science and Research Synthesis<br />
+Faculty of Science<br />
+University of Alberta<br />
 Edmonton, Alberta, Canada
 
 ### Academic qualifications
