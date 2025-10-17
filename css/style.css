@@ -8,6 +8,17 @@
 
     /* set font */
     font-family: Arial, Helvetica, sans-serif;
+
+    /* Minor Third */
+    --step--3: 0.579rem;
+    --step--2: 0.694rem;
+    --step--1: 0.833rem;
+    --step-0: 1rem;
+    --step-1: 1.2rem;
+    --step-2: 1.44rem;
+    --step-3: 1.728rem;
+    --step-4: 2.074rem;
+    --step-5: 2.488rem;
 }
 body {
     background-color: #fff; /* fallback incase browser doesn't support variables */
@@ -20,18 +31,43 @@ body {
 }
 main {
     margin-top: 4rem;
-
 }
 .center-container {
     max-width: 40rem;
     margin: 0 auto;
 }
 
-    /* ----- GLOBAL TEXT ----- */
-
+/* ----- GLOBAL TEXT ----- */
+h1,
+h2,
 h3 {
-    margin-top: 1rem;
+    line-height: 1.1;
+    text-wrap: balance;
 }
+h1 {
+    font-size: var(--step-4);
+    font-weight: 600;
+}
+h2 {
+    font-size: var(--step-3);
+    font-weight: 600;
+}
+h3 {
+    font-size: var(--step-2);
+}
+h4 {
+    font-size: var(--step-1);
+}
+h5 {
+    font-size: var(--step-0);
+}
+h6 {
+    font-size: var(--step-0);
+}
+
+/* h3 {
+    margin-top: 1rem;
+} */
 figcaption a {
     color: inherit;
 }
@@ -44,7 +80,7 @@ p {
     margin-bottom: 1rem;
 }
 
-    /* ----- TITLE ----- */
+/* ----- TITLE ----- */
 
 .title-container {
     display: flex;
@@ -72,7 +108,7 @@ p {
     }
 }
 
-    /* ----- NAVIGATION ----- */
+/* ----- NAVIGATION ----- */
 
 nav {
     display: flex;
@@ -96,7 +132,7 @@ nav {
 }
 
 /* Styles the nav menu item to indicate it is the current page */
-[aria-current="page"] {
+[aria-current='page'] {
     color: #bb5e32; /* fallback incase browser doesn't support variables */
     color: var(--current-page-color);
     /* text-decoration: underline; */
@@ -109,7 +145,7 @@ nav a {
     color: inherit;
 }
 
-    /* ----- HOME PAGE ----- */
+/* ----- HOME PAGE ----- */
 
 .pub-thumbs a {
     color: inherit;
@@ -126,7 +162,7 @@ nav a {
 .pub-thumbs a {
     text-decoration: none;
 }
-.pub-thumbs figcaption{
+.pub-thumbs figcaption {
     text-align: center;
     font-size: small;
     opacity: 0;
@@ -143,7 +179,7 @@ nav a {
     text-decoration: none;
 }
 
-    /* ----- CONTACT PAGE ----- */
+/* ----- CONTACT PAGE ----- */
 
 .contact-container {
     display: grid;

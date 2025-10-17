@@ -1,14 +1,14 @@
 ---
 title: Media
 order: 4
-permalink: "/media/"
+permalink: '/media/'
 ---
 
 ### Select media coverage
 
 <br>
 
-#### *Interviews and multimedia:*
+#### _Interviews and multimedia:_
 
 Science Friday, National Public Radio: [Rethinking Invasive Species with Pablo Escobar’s Hippos](https://www.sciencefriday.com/segments/pablo-escobar-columbia-hippos/)
 
@@ -20,11 +20,14 @@ Outpost Media: [Wild Science: Ecosystem Engineers](https://www.outpostdigitalcin
 
 Quirks and Quarks, CBC: [How Pablo Escobar's escaped hippos are helping to restore an ancient ecosystem](https://www.cbc.ca/radio/quirks/how-pablo-escobar-s-escaped-hippos-are-helping-to-restore-an-ancient-ecosystem-1.5512565)
 
-#### *Written:*
+#### _Written:_
+
 #### 2023
+
 Tove Danovich, The Atlantic: [Give Invasive Species a Job](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fscience%2Farchive%2F2023%2F08%2Finvasive-species-wild-horses-fires%2F675043%2F)
 
 #### 2022
+
 Los Angeles Times: [Mountain lions are eating California wild donkeys. Why scientists say this a good thing](https://www.latimes.com/california/story/2022-10-05/mountain-lions-are-eating-wild-donkeys-why-its-good)
 
 Asher Elbein, The New York Times and Seattle Times: [Death Valley’s Invasive Donkeys Have Become Cat Food](https://www.nytimes.com/2022/08/15/science/donkeys-mountain-lions-death-valley.html)
@@ -34,6 +37,7 @@ Smithsonian Magazine: [Cougars Are Killing Feral Donkeys, and That’s Good for 
 Science: [First photos of cougars killing donkeys in Death Valley suggest big impacts for ecosystem](https://www.science.org/content/article/first-photos-cougars-killing-donkeys-death-valley-suggest-big-impacts-ecosystem)
 
 #### 2021
+
 Smithsonian: [Wild Donkeys and Horses Dig Wells That Provide Water for a Host of Desert Species](https://www.smithsonianmag.com/smart-news/wild-donkeys-and-horses-dig-wells-provide-water-host-desert-species-180977627/)
 
 National Geographic: [Wild horses and donkeys dig wells in the desert, providing water for wildlife](https://www.nationalgeographic.com/animals/article/donkeys-horses-dig-desert-wells-helping-other-animals-survive)
@@ -65,4 +69,3 @@ Anthropocene Magazine: [Big, non-native mammal invaders: not a problem, but a so
 New Scientist: [Large non-native species like donkeys can boost biodiversity](https://www.newscientist.com/article/2145269-large-non-native-species-like-donkeys-can-boost-biodiversity/)
 
 Earther: [Invasive hippos, camels, and elephants offer a glimmer of hope for Earth’s megafauna](https://gizmodo.com/invasive-hippos-camels-and-elephants-offer-a-glimmer-1819055239)
-
