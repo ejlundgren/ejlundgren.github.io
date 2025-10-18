@@ -2,7 +2,7 @@
 layout: contact.njk
 title: Contact
 order: 5
-permalink: "/contact/"
+permalink: '/contact/'
 ---
 
 ### Affiliation
@@ -27,15 +27,15 @@ erick.lundgren@gmail.com
 
 <div class="icon-container">
     <a href="https://twitter.com/ejlundyyy">
-        <img src="/assets/images/icons/twitter.png" class="icon">
+        <img src="/assets/images/icons/twitter.png" class="icon" alt="twitter icon">
     </a>
     <a href="https://orcid.org/0000-0001-9893-3324">
-        <img src="/assets/images/icons/orcid.png" class="icon">
+        <img src="/assets/images/icons/orcid.png" class="icon" alt="orchid icon">
     </a>
     <a href="https://www.researchgate.net/profile/Erick-Lundgren">
-        <img src="/assets/images/icons/research_gate.png" class="icon">
+        <img src="/assets/images/icons/research_gate.png" class="icon" alt="research gate icon">
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=qgdLndsAAAAJ">
-        <img src="/assets/images/icons/google.png" class="icon">
+        <img src="/assets/images/icons/google.png" class="icon" alt="google icon">
     </a>
 </div>

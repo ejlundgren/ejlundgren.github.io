@@ -20,14 +20,13 @@ body {
 }
 main {
     margin-top: 4rem;
-
 }
 .center-container {
     max-width: 40rem;
     margin: 0 auto;
 }
 
-    /* ----- GLOBAL TEXT ----- */
+/* ----- GLOBAL TEXT ----- */
 
 h3 {
     margin-top: 1rem;
@@ -44,7 +43,11 @@ p {
     margin-bottom: 1rem;
 }
 
-    /* ----- TITLE ----- */
+img {
+    height: auto;
+}
+
+/* ----- TITLE ----- */
 
 .title-container {
     display: flex;
@@ -72,7 +75,7 @@ p {
     }
 }
 
-    /* ----- NAVIGATION ----- */
+/* ----- NAVIGATION ----- */
 
 nav {
     display: flex;
@@ -96,7 +99,7 @@ nav {
 }
 
 /* Styles the nav menu item to indicate it is the current page */
-[aria-current="page"] {
+[aria-current='page'] {
     color: #bb5e32; /* fallback incase browser doesn't support variables */
     color: var(--current-page-color);
     /* text-decoration: underline; */
@@ -109,7 +112,7 @@ nav a {
     color: inherit;
 }
 
-    /* ----- HOME PAGE ----- */
+/* ----- HOME PAGE ----- */
 
 .pub-thumbs a {
     color: inherit;
@@ -126,7 +129,7 @@ nav a {
 .pub-thumbs a {
     text-decoration: none;
 }
-.pub-thumbs figcaption{
+.pub-thumbs figcaption {
     text-align: center;
     font-size: small;
     opacity: 0;
@@ -143,7 +146,7 @@ nav a {
     text-decoration: none;
 }
 
-    /* ----- CONTACT PAGE ----- */
+/* ----- CONTACT PAGE ----- */
 
 .contact-container {
     display: grid;
