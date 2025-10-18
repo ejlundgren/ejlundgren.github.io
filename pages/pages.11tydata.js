@@ -1,7 +1,6 @@
-module.exports = () => {
+export default function () {
     return {
-        "layout": "base.njk",
-        "tags": "page",
-
-    }
+        layout: 'base.njk',
+        tags: 'page',
+    };
 }
