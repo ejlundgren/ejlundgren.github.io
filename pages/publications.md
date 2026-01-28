@@ -4,6 +4,35 @@ order: 3
 permalink: "/publications/"
 ---
 
+### In Review
+**EJ Lundgren**, S Nakagawa, J Trepel, S Raymond, E le Roux, EIF Wooster, J-C Svenning. Native and introduced megafauna have convergent effects on animals and ecosystems. __*Nature Communications*__ In Revision
+
+S Nakagawa, A Mizuno, C Williams, S Ortega, SM Drobniak, M Lagisz, Y Yang, AM Senior, DWA Noble, **E Lundgren** [senior author]. Mastering an accurate and generalizable simulation-based method to obtain bias-corrected point estimates and sampling variance for any effect size. arXiv preprint arXiv:2510.27519
+
+A Lenz, A Mizuno, **E Lundgren**, K Morrison, S Ortega, M Lagisz, S Nakagawa. A systematic map of systematic reviews and meta-analyses on anthropogenic noise impact on wildlife. ecoevoRxiv preprint: 10446.
+
+### 2026
+**EJ Lundgren**, J-C Svenning, MA Schlaepfer, AD Wallach, A Andersson, E Marris, Y Rohwer, D Ramp. Many pasts, many futures: navigating the complexities of species reshuffling to help prevent extinctions. __*Cambridge Prisms: Extinction*__ 4:e2. doi:10.1017/ext.2025.10010
+
+M Ni, J Atkinson, **E Lundgren**, P Villalva, W Wu, J-C Svenning. Native and alien ungulates in North America: potential for restoring herbivore diversity and functions. __*Global Ecology and Biogeography*__ 35(1): e70192.
+
+### 2025
+**EJ Lundgren**, AD Wallach, J-C Svenning, M. Schlaepfer, A.L.A. Andersson, P Pereyra, D Ramp. Categories, impacts, and the politics of naming in conservation: Reply to Schwartz and Simberloff. __*Conservation Biology.*__ 10.1111/cobi.70112
+
+S Nakagawa, S Ortega, E Gazzea, M Lagisz, A Lenz, **E Lundgren**, A Mizuno. Location-scale models in ecology and evolution: heteroscedasticity in continuous, count and proportion data. __*Methods in Ecology and Evolution.*__ 00: 1-13. https://doi.org/10.1111/2041-210x.70203
+
+PJ Pereyra, P de la Barra, LLD Amione, A Arcángel, BMM Buch, E Rodríguez, MA Maldonado, L Hünicken, **EJ Lundgren**, AD Wallach. Human beings and the species they introduce are not a ‘cancer’ of Planet Earth. __*BioScience*__ 75(5):351-353.
+
+KM Ferraro, AM Ferraro, **EJ Lundgren**, NR Sommer. The use and abuse of ecosystem service concepts and terms. __*Biological Conservation*__ 308: 111218.
+
+AD Wallach, **EJ Lundgren** [senior author]. Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. __*BioScience.*__ DOI: 10.1093/biosci/biaf046
+
+J Trepel, J Atkinson, E le Roux, AJ Abraham, M Aucamp, M Greve, M Greyling, JM Kalwij, S Khosa, L Lindenthal, C Makofane, L Mokoena, A Oosthuizen, BJ Rech, **EJ Lundgren**, J-C Svenning, R Buitenwerf. Large herbivores are linked to higher herbaceous plant diversity and functional redundancy across spatial scales. __*Journal of Animal Ecology*__. https://doi.org/10.1111/1365-2656.70181
+
+SD Schowanek, M Davis, **EJ Lundgren**, O Middleton, J Rowan, D Ramp, CJ Sandom, J-C Svenning. The late-Quaternary extinctions gave rise to functionally novel herbivore assemblages. __*Ecology and Evolution*__ 15(3): e71101.
+
+S Jerele, K Bischoff, **EJ Lundgren**, J Foley, EL Goodrich. Vitamin E and selenium concentrations of wild donkeys and their diets in the extreme desert ecosystem of Death Valley, California. __*Frontiers in Conservation Science*__ 6: 1551060.
+
 ### 2024
 **EJ Lundgren**, J Bergman, E le Roux, S Monsarrat, JA Kristensen, RØ Pedersen, J Trepel, and J-C Svenning. Functional traits—not nativeness—shape the effects of herbivorous megafauna on plants. __*Science*__ doi: 10.1126/science.adh2616 [PDF](../assets/pubs/Lundgren_et_al_2024a.pdf)
 
