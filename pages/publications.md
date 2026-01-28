@@ -12,7 +12,7 @@ S Nakagawa, A Mizuno, C Williams, S Ortega, SM Drobniak, M Lagisz, Y Yang, AM Se
 A Lenz, A Mizuno, **E Lundgren**, K Morrison, S Ortega, M Lagisz, S Nakagawa. A systematic map of systematic reviews and meta-analyses on anthropogenic noise impact on wildlife. ecoevoRxiv preprint: 10446.
 
 ### 2026
-**EJ Lundgren**, J-C Svenning, MA Schlaepfer, AD Wallach, A Andersson, E Marris, Y Rohwer, D Ramp. Many pasts, many futures: navigating the complexities of species reshuffling to help prevent extinctions. __*Cambridge Prisms: Extinction*__ 4:e2. doi:10.1017/ext.2025.10010
+**EJ Lundgren**, J-C Svenning, MA Schlaepfer, AD Wallach, A Andersson, E Marris, Y Rohwer, D Ramp. Many pasts, many futures: navigating the complexities of species reshuffling to help prevent extinctions. __*Cambridge Prisms: Extinction*__ 4:e2. doi:10.1017/ext.2025.10010 [PDF](../assets/pubs/Lundgren et al 2026.pdf)
 
 M Ni, J Atkinson, **E Lundgren**, P Villalva, W Wu, J-C Svenning. Native and alien ungulates in North America: potential for restoring herbivore diversity and functions. __*Global Ecology and Biogeography*__ 35(1): e70192.
 
